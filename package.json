@@ -1,8 +1,0 @@
-{
-  "name": "test_brown_monorepo",
-  "private": true,
-  "workspaces": [
-    "expo_app",
-    "target"
-  ]
-}

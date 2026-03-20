@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 private fun HomeScreen(modifier: Modifier, handleCall: () -> Unit){
-    Column(modifier = Modifier.fillMaxWidth()) {
+    Column(modifier = modifier.fillMaxWidth()) {
 
         Button(onClick = handleCall) {
             Text("Call RN-Activity")

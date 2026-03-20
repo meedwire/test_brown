@@ -2,4 +2,5 @@
 <resources>
 
     <style name="Theme.Brow" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.RN" parent="Theme.AppCompat.Light.NoActionBar" />
 </resources>
