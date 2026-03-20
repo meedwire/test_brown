@@ -1,0 +1,27 @@
+# Node
+node_modules/
+.npm
+.yarn
+.pnpm-store
+
+# Expo
+.expo/
+dist/
+
+# Android
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+local.properties
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
